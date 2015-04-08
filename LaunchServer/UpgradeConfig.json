@@ -1,0 +1,5 @@
+﻿{
+    fileNames: [ "Client.exe", "Client.exe.config" ],
+    ExtensionToIgnore: [ ".pdb", ".manifest" ],
+   FileToIgnore: [ "Client.exe.config"]
+}
